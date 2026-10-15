@@ -1,0 +1,3072 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38154567984681,
+          -7.949449296978112
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 100,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.949449296978112,
+        "longitude": 110.38154567984681,
+        "easting": 431837.1860256363,
+        "northing": 9121239.72180774,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.949449%2C110.381546",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 15.507920265197754,
+        "tebing_kiri_m": 19.62,
+        "tebing_kanan_m": 18.0,
+        "selisih_WS_minus_tebing_kiri_m": -4.112079734802247,
+        "selisih_WS_minus_tebing_kanan_m": -2.492079734802246,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 15.508 m tidak melebihi tebing kiri 19.620 m dan kanan 18.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38198740820937,
+            -7.949346331462378
+          ],
+          [
+            110.38110395129833,
+            -7.9495522620068195
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 100,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3811894916357,
+          -7.9486193602132
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 200,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.9486193602132,
+        "longitude": 110.3811894916357,
+        "easting": 431797.79028735287,
+        "northing": 9121331.418932445,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.948619%2C110.381189",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 15.507964134216309,
+        "tebing_kiri_m": 20.27,
+        "tebing_kanan_m": 19.45,
+        "selisih_WS_minus_tebing_kiri_m": -4.762035865783691,
+        "selisih_WS_minus_tebing_kanan_m": -3.9420358657836907,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 15.508 m tidak melebihi tebing kiri 20.270 m dan kanan 19.450 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38153890123776,
+            -7.948330930730213
+          ],
+          [
+            110.38084008155272,
+            -7.948907789360902
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 200,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38043685761677,
+          -7.948114252868853
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 300,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.948114252868853,
+        "longitude": 110.38043685761677,
+        "easting": 431714.75208344887,
+        "northing": 9121387.138378715,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.948114%2C110.380437",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 15.508023262023926,
+        "tebing_kiri_m": 17.0,
+        "tebing_kanan_m": 20.0,
+        "selisih_WS_minus_tebing_kiri_m": -1.4919767379760742,
+        "selisih_WS_minus_tebing_kanan_m": -4.491976737976074,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 15.508 m tidak melebihi tebing kiri 17.000 m dan kanan 20.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38068534860146,
+            -7.947735885413749
+          ],
+          [
+            110.38018836616149,
+            -7.948492620133513
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 300,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37967185326309,
+          -7.947628746237964
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 400,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.947628746237964,
+        "longitude": 110.37967185326309,
+        "easting": 431630.3534629397,
+        "northing": 9121440.688640451,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.947629%2C110.379672",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 15.751769065856934,
+        "tebing_kiri_m": 21.0,
+        "tebing_kanan_m": 19.52,
+        "selisih_WS_minus_tebing_kiri_m": -5.248230934143066,
+        "selisih_WS_minus_tebing_kanan_m": -3.768230934143066,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 15.752 m tidak melebihi tebing kiri 21.000 m dan kanan 19.520 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.37990851497241,
+            -7.947242915059862
+          ],
+          [
+            110.37943519109417,
+            -7.948014577240138
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 400,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3788894092354,
+          -7.947170871746135
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 500,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.947170871746135,
+        "longitude": 110.3788894092354,
+        "easting": 431544.0370222056,
+        "northing": 9121491.18093748,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.947171%2C110.378889",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 16.464763641357422,
+        "tebing_kiri_m": 30.0,
+        "tebing_kanan_m": 21.0,
+        "selisih_WS_minus_tebing_kiri_m": -13.535236358642578,
+        "selisih_WS_minus_tebing_kanan_m": -4.535236358642578,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 16.465 m tidak melebihi tebing kiri 30.000 m dan kanan 21.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.37896546145689,
+            -7.946725019981045
+          ],
+          [
+            110.37881335681347,
+            -7.9476167234750505
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 500,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37807189555397,
+          -7.947357495319599
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 600,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.947357495319599,
+        "longitude": 110.37807189555397,
+        "easting": 431453.9619527886,
+        "northing": 9121470.413143229,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.947357%2C110.378072",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 16.464763641357422,
+        "tebing_kiri_m": 21.12,
+        "tebing_kanan_m": 21.0,
+        "selisih_WS_minus_tebing_kiri_m": -4.655236358642579,
+        "selisih_WS_minus_tebing_kanan_m": -4.535236358642578,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 16.465 m tidak melebihi tebing kiri 21.120 m dan kanan 21.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.37820946340254,
+            -7.9469265394276905
+          ],
+          [
+            110.37793432738695,
+            -7.947788451134895
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 600,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37747401249464,
+          -7.94672181299197
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 700,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.94672181299197,
+        "longitude": 110.37747401249464,
+        "easting": 431387.9579615367,
+        "northing": 9121540.59369332,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.946722%2C110.377474",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 17.218372344970703,
+        "tebing_kiri_m": 22.45,
+        "tebing_kanan_m": 22.0,
+        "selisih_WS_minus_tebing_kiri_m": -5.231627655029296,
+        "selisih_WS_minus_tebing_kanan_m": -4.781627655029297,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 17.218 m tidak melebihi tebing kiri 22.450 m dan kanan 22.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.37784665799478,
+            -7.946463908042107
+          ],
+          [
+            110.37710136654272,
+            -7.946979717568557
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 700,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37711568441036,
+          -7.945984300652659
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 800,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.945984300652659,
+        "longitude": 110.37711568441036,
+        "easting": 431348.3405800744,
+        "northing": 9121622.071932575,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.945984%2C110.377116",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 19.22638702392578,
+        "tebing_kiri_m": 22.38,
+        "tebing_kanan_m": 21.59,
+        "selisih_WS_minus_tebing_kiri_m": -3.1536129760742178,
+        "selisih_WS_minus_tebing_kanan_m": -2.3636129760742186,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 19.226 m tidak melebihi tebing kiri 22.380 m dan kanan 21.590 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.3775645707559,
+            -7.9460495866590435
+          ],
+          [
+            110.37666679824366,
+            -7.945919014172318
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 800,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3776849892381,
+          -7.945280043211737
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 900,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.945280043211737,
+        "longitude": 110.3776849892381,
+        "easting": 431410.9724202739,
+        "northing": 9121700.02718833,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.945280%2C110.377685",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 20.0083065032959,
+        "tebing_kiri_m": 31.46,
+        "tebing_kanan_m": 21.0,
+        "selisih_WS_minus_tebing_kiri_m": -11.451693496704102,
+        "selisih_WS_minus_tebing_kanan_m": -0.9916934967041016,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 20.008 m tidak melebihi tebing kiri 31.460 m dan kanan 21.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.37812274298396,
+            -7.945398669066099
+          ],
+          [
+            110.37724723577684,
+            -7.945161416915208
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 900,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37754027303524,
+          -7.94442703972583
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 1000,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.94442703972583,
+        "longitude": 110.37754027303524,
+        "easting": 431394.88016467297,
+        "northing": 9121794.309230614,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.944427%2C110.377540",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 20.241029739379883,
+        "tebing_kiri_m": 21.55,
+        "tebing_kanan_m": 21.0,
+        "selisih_WS_minus_tebing_kiri_m": -1.308970260620118,
+        "selisih_WS_minus_tebing_kanan_m": -0.7589702606201172,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 20.241 m tidak melebihi tebing kiri 21.550 m dan kanan 21.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.37791772734411,
+            -7.944677895270467
+          ],
+          [
+            110.37716281919944,
+            -7.944176183870974
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 1000,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3784000920085,
+          -7.944210604223169
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 1100,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.944210604223169,
+        "longitude": 110.3784000920085,
+        "easting": 431489.6138304829,
+        "northing": 9121818.380017105,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.944211%2C110.378400",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 20.379392623901367,
+        "tebing_kiri_m": 27.3,
+        "tebing_kanan_m": 21.45,
+        "selisih_WS_minus_tebing_kiri_m": -6.9206073760986335,
+        "selisih_WS_minus_tebing_kanan_m": -1.070607376098632,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 20.379 m tidak melebihi tebing kiri 27.300 m dan kanan 21.450 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.37858210615249,
+            -7.9446248566679545
+          ],
+          [
+            110.37821807820333,
+            -7.94379635171871
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 1100,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37909280302448,
+          -7.943749044444124
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 1200,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.943749044444124,
+        "longitude": 110.37909280302448,
+        "easting": 431565.8882796462,
+        "northing": 9121869.52335153,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.943749%2C110.379093",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 20.723739624023438,
+        "tebing_kiri_m": 22.97,
+        "tebing_kanan_m": 22.0,
+        "selisih_WS_minus_tebing_kiri_m": -2.2462603759765614,
+        "selisih_WS_minus_tebing_kanan_m": -1.2762603759765625,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 20.724 m tidak melebihi tebing kiri 22.970 m dan kanan 22.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.37939878391134,
+            -7.9440829280131515
+          ],
+          [
+            110.37878682262857,
+            -7.943415160682777
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 1200,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37966708646553,
+          -7.9430565621774
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 1300,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.9430565621774,
+        "longitude": 110.37966708646553,
+        "easting": 431629.0715346212,
+        "northing": 9121946.17723267,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.943057%2C110.379667",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 21.166038513183594,
+        "tebing_kiri_m": 22.48,
+        "tebing_kanan_m": 22.0,
+        "selisih_WS_minus_tebing_kiri_m": -1.3139614868164067,
+        "selisih_WS_minus_tebing_kanan_m": -0.8339614868164062,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 21.166 m tidak melebihi tebing kiri 22.480 m dan kanan 22.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38001567108968,
+            -7.943345976621781
+          ],
+          [
+            110.37931850233647,
+            -7.942767147474464
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 1300,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38025002373759,
+          -7.94236371414026
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 1400,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.94236371414026,
+        "longitude": 110.38025002373759,
+        "easting": 431693.2087771931,
+        "northing": 9122022.872871855,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.942364%2C110.380250",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 21.48816680908203,
+        "tebing_kiri_m": 22.44,
+        "tebing_kanan_m": 22.92,
+        "selisih_WS_minus_tebing_kiri_m": -0.95183319091797,
+        "selisih_WS_minus_tebing_kanan_m": -1.4318331909179705,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 21.488 m tidak melebihi tebing kiri 22.440 m dan kanan 22.920 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38059874274511,
+            -7.9426529670219335
+          ],
+          [
+            110.37990130522508,
+            -7.942074460999791
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 1400,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38082750145013,
+          -7.941666091489686
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 1500,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.941666091489686,
+        "longitude": 110.38082750145013,
+        "easting": 431756.74369182845,
+        "northing": 9122100.095372604,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.941666%2C110.380828",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 21.611501693725586,
+        "tebing_kiri_m": 23.0,
+        "tebing_kanan_m": 23.0,
+        "selisih_WS_minus_tebing_kiri_m": -1.388498306274414,
+        "selisih_WS_minus_tebing_kanan_m": -1.388498306274414,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 21.612 m tidak melebihi tebing kiri 23.000 m dan kanan 23.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38104792597726,
+            -7.942061364868173
+          ],
+          [
+            110.38060707732429,
+            -7.941270818019362
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 1500,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38163675290089,
+          -7.941595104141721
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 1600,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.941595104141721,
+        "longitude": 110.38163675290089,
+        "easting": 431845.928508178,
+        "northing": 9122108.076651119,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.941595%2C110.381637",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 21.74156379699707,
+        "tebing_kiri_m": 23.05,
+        "tebing_kanan_m": 22.45,
+        "selisih_WS_minus_tebing_kiri_m": -1.3084362030029304,
+        "selisih_WS_minus_tebing_kanan_m": -0.708436203002929,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 21.742 m tidak melebihi tebing kiri 23.050 m dan kanan 22.450 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38169141471003,
+            -7.942044061814616
+          ],
+          [
+            110.38158209117333,
+            -7.941146146461138
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 1600,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38235706596079,
+          -7.941480994882392
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 1700,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.941480994882392,
+        "longitude": 110.38235706596079,
+        "easting": 431925.30335996934,
+        "northing": 9122120.8106023,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.941481%2C110.382357",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 21.82442855834961,
+        "tebing_kiri_m": 22.4,
+        "tebing_kanan_m": 22.0,
+        "selisih_WS_minus_tebing_kiri_m": -0.5755714416503892,
+        "selisih_WS_minus_tebing_kanan_m": -0.17557144165039062,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 21.824 m tidak melebihi tebing kiri 22.400 m dan kanan 22.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.382754780544,
+            -7.941698519974053
+          ],
+          [
+            110.38195935181665,
+            -7.941263469440292
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 1700,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38216529067424,
+          -7.940634620644541
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 1800,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.940634620644541,
+        "longitude": 110.38216529067424,
+        "easting": 431904.02628089127,
+        "northing": 9122214.3520983,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.940635%2C110.382165",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 22.107908248901367,
+        "tebing_kiri_m": 22.61,
+        "tebing_kanan_m": 23.0,
+        "selisih_WS_minus_tebing_kiri_m": -0.5020917510986322,
+        "selisih_WS_minus_tebing_kanan_m": -0.8920917510986328,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 22.108 m tidak melebihi tebing kiri 22.610 m dan kanan 23.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.382618873588,
+            -7.940641303931152
+          ],
+          [
+            110.38171170781337,
+            -7.940627936864434
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 1800,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38238134800868,
+          -7.939843028741399
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 1900,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.939843028741399,
+        "longitude": 110.38238134800868,
+        "easting": 431927.7100714135,
+        "northing": 9122301.903950185,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.939843%2C110.382381",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 22.107908248901367,
+        "tebing_kiri_m": 23.82,
+        "tebing_kanan_m": 23.05,
+        "selisih_WS_minus_tebing_kiri_m": -1.712091751098633,
+        "selisih_WS_minus_tebing_kanan_m": -0.9420917510986335,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 22.108 m tidak melebihi tebing kiri 23.820 m dan kanan 23.050 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38278760908784,
+            -7.940044241188757
+          ],
+          [
+            110.38197508734804,
+            -7.939641815925732
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 1900,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38291708374085,
+          -7.939125913552773
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 2000,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.939125913552773,
+        "longitude": 110.38291708374085,
+        "easting": 431986.64170599234,
+        "northing": 9122381.274255944,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.939126%2C110.382917",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 22.556751251220703,
+        "tebing_kiri_m": 22.9,
+        "tebing_kanan_m": 23.0,
+        "selisih_WS_minus_tebing_kiri_m": -0.34324874877929545,
+        "selisih_WS_minus_tebing_kanan_m": -0.4432487487792969,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 22.557 m tidak melebihi tebing kiri 22.900 m dan kanan 23.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38336784552912,
+            -7.93917669789273
+          ],
+          [
+            110.38246632210051,
+            -7.93907512873281
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 2000,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38254282042804,
+          -7.938418512984966
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 2100,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.938418512984966,
+        "longitude": 110.38254282042804,
+        "easting": 431945.27336883976,
+        "northing": 9122459.42126381,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.938419%2C110.382543",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 23.089391708374023,
+        "tebing_kiri_m": 23.1,
+        "tebing_kanan_m": 23.94,
+        "selisih_WS_minus_tebing_kiri_m": -0.010608291625977984,
+        "selisih_WS_minus_tebing_kanan_m": -0.8506082916259778,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 23.089 m tidak melebihi tebing kiri 23.100 m dan kanan 23.940 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38294948794794,
+            -7.9382181214351455
+          ],
+          [
+            110.38213615253724,
+            -7.938618904105136
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 2100,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38218406050687,
+          -7.937647356676928
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 2200,
+        "status": "marginal",
+        "sisi": "Kiri",
+        "latitude": -7.937647356676928,
+        "longitude": 110.38218406050687,
+        "easting": 431905.603217288,
+        "northing": 9122544.61945859,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.937647%2C110.382184",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 23.407575607299805,
+        "tebing_kiri_m": 23.39,
+        "tebing_kanan_m": 24.0,
+        "selisih_WS_minus_tebing_kiri_m": 0.01757560729980412,
+        "selisih_WS_minus_tebing_kanan_m": -0.5924243927001953,
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 23.408 m; tebing kiri 23.390 m, kanan 24.000 m. Selisih kurang dari toleransi Z 0.02 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38263438878568,
+            -7.937701815985594
+          ],
+          [
+            110.3817337323838,
+            -7.937592896889879
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 2200,
+        "status": "marginal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38271924669803,
+          -7.936968461602124
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 2300,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.936968461602124,
+        "longitude": 110.38271924669803,
+        "easting": 431964.4808769625,
+        "northing": 9122619.764155872,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.936968%2C110.382719",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 23.687847137451172,
+        "tebing_kiri_m": 24.0,
+        "tebing_kanan_m": 24.0,
+        "selisih_WS_minus_tebing_kiri_m": -0.3121528625488281,
+        "selisih_WS_minus_tebing_kanan_m": -0.3121528625488281,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 23.688 m tidak melebihi tebing kiri 24.000 m dan kanan 24.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38304610681787,
+            -7.937282057365061
+          ],
+          [
+            110.38239238707521,
+            -7.936654865615785
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 2300,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38340777640275,
+          -7.936379603762789
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 2400,
+        "status": "indikasi_model",
+        "sisi": "Kiri",
+        "latitude": -7.936379603762789,
+        "longitude": 110.38340777640275,
+        "easting": 432040.2754171079,
+        "northing": 9122684.979594762,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.936380%2C110.383408",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 23.721920013427734,
+        "tebing_kiri_m": 23.45,
+        "tebing_kanan_m": 23.73,
+        "selisih_WS_minus_tebing_kiri_m": 0.2719200134277351,
+        "selisih_WS_minus_tebing_kanan_m": -0.008079986572266051,
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 23.722 m; tebing kiri 23.450 m, kanan 23.730 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38369400419802,
+            -7.936730463397017
+          ],
+          [
+            110.38312154908526,
+            -7.936028743963106
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 2400,
+        "status": "indikasi_model"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38412517973404,
+          -7.9358284573141376
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 2500,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.9358284573141376,
+        "longitude": 110.38412517973404,
+        "easting": 432119.2588827255,
+        "northing": 9122746.030339938,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.935828%2C110.384125",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 23.884489059448242,
+        "tebing_kiri_m": 23.9,
+        "tebing_kanan_m": 24.27,
+        "selisih_WS_minus_tebing_kiri_m": -0.015510940551756391,
+        "selisih_WS_minus_tebing_kanan_m": -0.3855109405517574,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 23.884 m tidak melebihi tebing kiri 23.900 m dan kanan 24.270 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38437633595085,
+            -7.936205067481885
+          ],
+          [
+            110.38387402395975,
+            -7.93545184702307
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 2500,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38487187841078,
+          -7.935409121029856
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 2600,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.935409121029856,
+        "longitude": 110.38487187841078,
+        "easting": 432201.4931654156,
+        "northing": 9122792.513131563,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.935409%2C110.384872",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 23.97903823852539,
+        "tebing_kiri_m": 24.99,
+        "tebing_kanan_m": 24.0,
+        "selisih_WS_minus_tebing_kiri_m": -1.0109617614746078,
+        "selisih_WS_minus_tebing_kanan_m": -0.020961761474609375,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 23.979 m tidak melebihi tebing kiri 24.990 m dan kanan 24.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.3852305881876,
+            -7.935685957716229
+          ],
+          [
+            110.38451316912358,
+            -7.935132284067476
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 2600,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38511487791715,
+          -7.934553817318087
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 2700,
+        "status": "indikasi_model",
+        "sisi": "Kiri",
+        "latitude": -7.934553817318087,
+        "longitude": 110.38511487791715,
+        "easting": 432228.13710803236,
+        "northing": 9122887.1129499,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.934554%2C110.385115",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 24.025205612182617,
+        "tebing_kiri_m": 23.52,
+        "tebing_kanan_m": 24.92,
+        "selisih_WS_minus_tebing_kiri_m": 0.5052056121826176,
+        "selisih_WS_minus_tebing_kanan_m": -0.8947943878173845,
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 24.025 m; tebing kiri 23.520 m, kanan 24.920 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38552941341679,
+            -7.934737479779315
+          ],
+          [
+            110.384700342811,
+            -7.934370154470614
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 2700,
+        "status": "indikasi_model"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38559291293986,
+          -7.933791544578428
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 2800,
+        "status": "indikasi_model",
+        "sisi": "Kanan",
+        "latitude": -7.933791544578428,
+        "longitude": 110.38559291293986,
+        "easting": 432280.7027325886,
+        "northing": 9122971.465836005,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.933792%2C110.385593",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 24.412368774414062,
+        "tebing_kiri_m": 33.15,
+        "tebing_kanan_m": 24.18,
+        "selisih_WS_minus_tebing_kiri_m": -8.737631225585936,
+        "selisih_WS_minus_tebing_kanan_m": 0.23236877441406278,
+        "catatan": "Terindikasi luapan kanan: muka air maksimum 24.412 m; tebing kiri 33.150 m, kanan 24.180 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38601435174779,
+            -7.933958862139179
+          ],
+          [
+            110.38517147450038,
+            -7.9336242266157955
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 2800,
+        "status": "indikasi_model"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3857185086107,
+          -7.933042580567523
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 2900,
+        "status": "indikasi_model",
+        "sisi": "Kiri dan kanan",
+        "latitude": -7.933042580567523,
+        "longitude": 110.3857185086107,
+        "easting": 432294.42373310035,
+        "northing": 9123054.289798526,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.933043%2C110.385719",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 24.62578773498535,
+        "tebing_kiri_m": 24.18,
+        "tebing_kanan_m": 24.0,
+        "selisih_WS_minus_tebing_kiri_m": 0.44578773498535185,
+        "selisih_WS_minus_tebing_kanan_m": 0.6257877349853516,
+        "catatan": "Terindikasi luapan kiri dan kanan: muka air maksimum 24.626 m; tebing kiri 24.180 m, kanan 24.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38610449513297,
+            -7.932804995424591
+          ],
+          [
+            110.38533252166226,
+            -7.933280165316057
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 2900,
+        "status": "indikasi_model"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38489622549567,
+          -7.9326665162986565
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 3000,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.9326665162986565,
+        "longitude": 110.38489622549567,
+        "easting": 432203.727423317,
+        "northing": 9123095.732264062,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.932667%2C110.384896",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 24.73011016845703,
+        "tebing_kiri_m": 26.0,
+        "tebing_kanan_m": 24.77,
+        "selisih_WS_minus_tebing_kiri_m": -1.2698898315429688,
+        "selisih_WS_minus_tebing_kanan_m": -0.039889831542968324,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 24.730 m tidak melebihi tebing kiri 26.000 m dan kanan 24.770 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38507801677531,
+            -7.932252168058997
+          ],
+          [
+            110.38471443382619,
+            -7.933080864422862
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 3000,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38415277141225,
+          -7.9323597724772865
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 3100,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.9323597724772865,
+        "longitude": 110.38415277141225,
+        "easting": 432121.73111535195,
+        "northing": 9123129.523564927,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.932360%2C110.384153",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 25.268728256225586,
+        "tebing_kiri_m": 25.28,
+        "tebing_kanan_m": 25.84,
+        "selisih_WS_minus_tebing_kiri_m": -0.0112717437744152,
+        "selisih_WS_minus_tebing_kanan_m": -0.5712717437744139,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 25.269 m tidak melebihi tebing kiri 25.280 m dan kanan 25.840 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.3841487223465,
+            -7.931907537111367
+          ],
+          [
+            110.38415682044875,
+            -7.93281200783415
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 3100,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38330887033291,
+          -7.932680642529676
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 3200,
+        "status": "indikasi_model",
+        "sisi": "Kiri dan kanan",
+        "latitude": -7.932680642529676,
+        "longitude": 110.38330887033291,
+        "easting": 432028.76612397894,
+        "northing": 9123093.91093226,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.932681%2C110.383309",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 25.292621612548828,
+        "tebing_kiri_m": 24.53,
+        "tebing_kanan_m": 24.2,
+        "selisih_WS_minus_tebing_kiri_m": 0.762621612548827,
+        "selisih_WS_minus_tebing_kanan_m": 1.0926216125488288,
+        "catatan": "Terindikasi luapan kiri dan kanan: muka air maksimum 25.293 m; tebing kiri 24.530 m, kanan 24.200 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38334395110925,
+            -7.932229743631624
+          ],
+          [
+            110.38327378944241,
+            -7.933131541409216
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 3200,
+        "status": "indikasi_model"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38276889690088,
+          -7.932252754381374
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 3300,
+        "status": "indikasi_model",
+        "sisi": "Kiri",
+        "latitude": -7.932252754381374,
+        "longitude": 110.38276889690088,
+        "easting": 431969.1780958236,
+        "northing": 9123141.12868168,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.932253%2C110.382769",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 25.315814971923828,
+        "tebing_kiri_m": 25.0,
+        "tebing_kanan_m": 25.95,
+        "selisih_WS_minus_tebing_kiri_m": 0.3158149719238281,
+        "selisih_WS_minus_tebing_kanan_m": -0.6341850280761712,
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 25.316 m; tebing kiri 25.000 m, kanan 25.950 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38321637888902,
+            -7.932178588620195
+          ],
+          [
+            110.3823214147885,
+            -7.932326919649072
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 3300,
+        "status": "indikasi_model"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38310146821591,
+          -7.931436824575907
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 3400,
+        "status": "indikasi_model",
+        "sisi": "Kiri",
+        "latitude": -7.931436824575907,
+        "longitude": 110.38310146821591,
+        "easting": 432005.7012348198,
+        "northing": 9123231.39023592,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.931437%2C110.383101",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 25.384706497192383,
+        "tebing_kiri_m": 25.26,
+        "tebing_kanan_m": 26.0,
+        "selisih_WS_minus_tebing_kiri_m": 0.12470649719238125,
+        "selisih_WS_minus_tebing_kanan_m": -0.6152935028076172,
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 25.385 m; tebing kiri 25.260 m, kanan 26.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38355266067838,
+            -7.931483573363001
+          ],
+          [
+            110.38265027589271,
+            -7.931390075307666
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 3400,
+        "status": "indikasi_model"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38294555518979,
+          -7.930558044871846
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 3500,
+        "status": "indikasi_model",
+        "sisi": "Kiri",
+        "latitude": -7.930558044871846,
+        "longitude": 110.38294555518979,
+        "easting": 431988.37154409103,
+        "northing": 9123328.520289155,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.930558%2C110.382946",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 25.568174362182617,
+        "tebing_kiri_m": 25.0,
+        "tebing_kanan_m": 26.87,
+        "selisih_WS_minus_tebing_kiri_m": 0.5681743621826172,
+        "selisih_WS_minus_tebing_kanan_m": -1.3018256378173838,
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 25.568 m; tebing kiri 25.000 m, kanan 26.870 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38334581634075,
+            -7.930770857221268
+          ],
+          [
+            110.38254529447164,
+            -7.930345232167209
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 3500,
+        "status": "indikasi_model"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38374897571903,
+          -7.930226315495376
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 3600,
+        "status": "indikasi_model",
+        "sisi": "Kiri",
+        "latitude": -7.930226315495376,
+        "longitude": 110.38374897571903,
+        "easting": 432076.87329128967,
+        "northing": 9123365.326923098,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.930226%2C110.383749",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 25.784847259521484,
+        "tebing_kiri_m": 25.35,
+        "tebing_kanan_m": 26.79,
+        "selisih_WS_minus_tebing_kiri_m": 0.43484725952148295,
+        "selisih_WS_minus_tebing_kanan_m": -1.0051527404785148,
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 25.785 m; tebing kiri 25.350 m, kanan 26.790 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38381265510704,
+            -7.9306740905324
+          ],
+          [
+            110.38368529643213,
+            -7.929778540449601
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 3600,
+        "status": "indikasi_model"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38464965126269,
+          -7.930317159835042
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 3700,
+        "status": "indikasi_model",
+        "sisi": "Kiri",
+        "latitude": -7.930317159835042,
+        "longitude": 110.38464965126269,
+        "easting": 432176.16424208187,
+        "northing": 9123355.430629395,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.930317%2C110.384650",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 26.140888214111328,
+        "tebing_kiri_m": 26.0,
+        "tebing_kanan_m": 27.0,
+        "selisih_WS_minus_tebing_kiri_m": 0.14088821411132812,
+        "selisih_WS_minus_tebing_kanan_m": -0.8591117858886719,
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 26.141 m; tebing kiri 26.000 m, kanan 27.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38455643219446,
+            -7.9307597609309335
+          ],
+          [
+            110.38474287009674,
+            -7.9298745586936805
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 3700,
+        "status": "indikasi_model"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38550368674457,
+          -7.930593660595981
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 3800,
+        "status": "indikasi_model",
+        "sisi": "Kanan",
+        "latitude": -7.930593660595981,
+        "longitude": 110.38550368674457,
+        "easting": 432270.34465616604,
+        "northing": 9123325.000837296,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.930594%2C110.385504",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 26.33546257019043,
+        "tebing_kiri_m": 27.0,
+        "tebing_kanan_m": 26.0,
+        "selisih_WS_minus_tebing_kiri_m": -0.6645374298095703,
+        "selisih_WS_minus_tebing_kanan_m": 0.3354625701904297,
+        "catatan": "Terindikasi luapan kanan: muka air maksimum 26.335 m; tebing kiri 27.000 m, kanan 26.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38561547410238,
+            -7.93103196656426
+          ],
+          [
+            110.38539189959008,
+            -7.930155354606687
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 3800,
+        "status": "indikasi_model"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38600299528576,
+          -7.929974076790125
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 3900,
+        "status": "indikasi_model",
+        "sisi": "Kanan",
+        "latitude": -7.929974076790125,
+        "longitude": 110.38600299528576,
+        "easting": 432325.2790996361,
+        "northing": 9123393.581774822,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.929974%2C110.386003",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 26.4219970703125,
+        "tebing_kiri_m": 27.35,
+        "tebing_kanan_m": 26.0,
+        "selisih_WS_minus_tebing_kiri_m": -0.9280029296875014,
+        "selisih_WS_minus_tebing_kanan_m": 0.4219970703125,
+        "catatan": "Terindikasi luapan kanan: muka air maksimum 26.422 m; tebing kiri 27.350 m, kanan 26.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38645659268467,
+            -7.929969456041407
+          ],
+          [
+            110.3855493979147,
+            -7.9299786970440955
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 3900,
+        "status": "indikasi_model"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38549019420266,
+          -7.929276907404329
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 4000,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.929276907404329,
+        "longitude": 110.38549019420266,
+        "easting": 432268.6420414105,
+        "northing": 9123470.575356955,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.929277%2C110.385490",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 26.8797550201416,
+        "tebing_kiri_m": 27.0,
+        "tebing_kanan_m": 27.0,
+        "selisih_WS_minus_tebing_kiri_m": -0.12024497985839844,
+        "selisih_WS_minus_tebing_kanan_m": -0.12024497985839844,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 26.880 m tidak melebihi tebing kiri 27.000 m dan kanan 27.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38593638262049,
+            -7.929195378434127
+          ],
+          [
+            110.38504400564469,
+            -7.929358435882825
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 4000,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3857145451007,
+          -7.928404959080617
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 4100,
+        "status": "indikasi_model",
+        "sisi": "Kanan",
+        "latitude": -7.928404959080617,
+        "longitude": 110.3857145451007,
+        "easting": 432293.2283721296,
+        "northing": 9123567.012211245,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.928405%2C110.385715",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 27.14716148376465,
+        "tebing_kiri_m": 27.16,
+        "tebing_kanan_m": 27.06,
+        "selisih_WS_minus_tebing_kiri_m": -0.012838516235351705,
+        "selisih_WS_minus_tebing_kanan_m": 0.08716148376464972,
+        "catatan": "Terindikasi luapan kanan: muka air maksimum 27.147 m; tebing kiri 27.160 m, kanan 27.060 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38612257832901,
+            -7.928602552856792
+          ],
+          [
+            110.38530651228533,
+            -7.928207364932722
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 4100,
+        "status": "indikasi_model"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38623215019021,
+          -7.9277539736625
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 4200,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.9277539736625,
+        "longitude": 110.38623215019021,
+        "easting": 432350.1747675155,
+        "northing": 9123639.06774674,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.927754%2C110.386232",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 27.585330963134766,
+        "tebing_kiri_m": 28.0,
+        "tebing_kanan_m": 28.0,
+        "selisih_WS_minus_tebing_kiri_m": -0.4146690368652344,
+        "selisih_WS_minus_tebing_kanan_m": -0.4146690368652344,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 27.585 m tidak melebihi tebing kiri 28.000 m dan kanan 28.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38645314065204,
+            -7.928148929485838
+          ],
+          [
+            110.38601116012995,
+            -7.927359017746744
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 4200,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38712472270205,
+          -7.927620661499238
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 4300,
+        "status": "indikasi_model",
+        "sisi": "Kiri",
+        "latitude": -7.927620661499238,
+        "longitude": 110.38712472270205,
+        "easting": 432448.53648524976,
+        "northing": 9123653.951637795,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.927621%2C110.387125",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 27.881553649902344,
+        "tebing_kiri_m": 26.16,
+        "tebing_kanan_m": 27.98,
+        "selisih_WS_minus_tebing_kiri_m": 1.7215536499023436,
+        "selisih_WS_minus_tebing_kanan_m": -0.09844635009765668,
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 27.882 m; tebing kiri 26.160 m, kanan 27.980 m.",
+        "geometry_edited_after_run": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38743692827205,
+            -7.927948757324702
+          ],
+          [
+            110.38681251762476,
+            -7.927292565472466
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 4300,
+        "status": "indikasi_model"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38718347947497,
+          -7.926854160172574
+        ]
+      },
+      "properties": {
+        "kind": "section",
+        "RS": 4400,
+        "status": "tidak_luapan",
+        "sisi": "-",
+        "latitude": -7.926854160172574,
+        "longitude": 110.38718347947497,
+        "easting": 432454.8879215524,
+        "northing": 9123738.703497725,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.926854%2C110.387183",
+        "location_method": "intersection_XS_river",
+        "river_intersection_count": 1,
+        "WSE_m": 27.881553649902344,
+        "tebing_kiri_m": 28.09,
+        "tebing_kanan_m": 28.0,
+        "selisih_WS_minus_tebing_kiri_m": -0.2084463500976561,
+        "selisih_WS_minus_tebing_kanan_m": -0.11844635009765625,
+        "catatan": "Tidak terindikasi luapan: muka air maksimum 27.882 m tidak melebihi tebing kiri 28.090 m dan kanan 28.000 m.",
+        "geometry_edited_after_run": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.3876166975074,
+            -7.926720061278255
+          ],
+          [
+            110.38675026119328,
+            -7.926988258594178
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "cross_section",
+        "RS": 4400,
+        "status": "tidak_luapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38263438878568,
+          -7.937701815985594
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 2200,
+        "sisi": "Kiri",
+        "status": "marginal",
+        "latitude": -7.937701815985594,
+        "longitude": 110.38263438878568,
+        "easting": 431955.248290235,
+        "northing": 9122538.67246506,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.937702%2C110.382634",
+        "WSE_m": 23.407575607299805,
+        "elevasi_tebing_m": 23.39,
+        "kelebihan_m": 0.01757560729980412,
+        "bank_station_m": 0.0,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 23.408 m; tebing kiri 23.390 m, kanan 24.000 m. Selisih kurang dari toleransi Z 0.02 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38369400419802,
+          -7.936730463397017
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 2400,
+        "sisi": "Kiri",
+        "status": "indikasi_model",
+        "latitude": -7.936730463397017,
+        "longitude": 110.38369400419802,
+        "easting": 432071.881740888,
+        "northing": 9122646.23633345,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.936730%2C110.383694",
+        "WSE_m": 23.721920013427734,
+        "elevasi_tebing_m": 23.45,
+        "kelebihan_m": 0.2719200134277351,
+        "bank_station_m": 0.0,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 23.722 m; tebing kiri 23.450 m, kanan 23.730 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.385337068896,
+          -7.934652260445345
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 2700,
+        "sisi": "Kiri",
+        "status": "indikasi_model",
+        "latitude": -7.934652260445345,
+        "longitude": 110.385337068896,
+        "easting": 432252.64374580065,
+        "northing": 9122876.26561358,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.934652%2C110.385337",
+        "WSE_m": 24.025205612182617,
+        "elevasi_tebing_m": 23.52,
+        "kelebihan_m": 0.5052056121826176,
+        "bank_station_m": 23.2,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 24.025 m; tebing kiri 23.520 m, kanan 24.920 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38517147450038,
+          -7.9336242266157955
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 2800,
+        "sisi": "Kanan",
+        "status": "indikasi_model",
+        "latitude": -7.9336242266157955,
+        "longitude": 110.38517147450038,
+        "easting": 432234.223109357,
+        "northing": 9122989.89528592,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.933624%2C110.385171",
+        "WSE_m": 24.412368774414062,
+        "elevasi_tebing_m": 24.18,
+        "kelebihan_m": 0.23236877441406278,
+        "bank_station_m": 100.0,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kanan: muka air maksimum 24.412 m; tebing kiri 33.150 m, kanan 24.180 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38610449513297,
+          -7.932804995424591
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 2900,
+        "sisi": "Kiri",
+        "status": "indikasi_model",
+        "latitude": -7.932804995424591,
+        "longitude": 110.38610449513297,
+        "easting": 432336.929568363,
+        "northing": 9123080.61951498,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.932805%2C110.386104",
+        "WSE_m": 24.62578773498535,
+        "elevasi_tebing_m": 24.18,
+        "kelebihan_m": 0.44578773498535185,
+        "bank_station_m": 0.0,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kiri dan kanan: muka air maksimum 24.626 m; tebing kiri 24.180 m, kanan 24.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38569380545876,
+          -7.93305778600325
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 2900,
+        "sisi": "Kanan",
+        "status": "indikasi_model",
+        "latitude": -7.93305778600325,
+        "longitude": 110.38569380545876,
+        "easting": 432291.7033596421,
+        "northing": 9123052.604696672,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.933058%2C110.385694",
+        "WSE_m": 24.62578773498535,
+        "elevasi_tebing_m": 24.0,
+        "kelebihan_m": 0.6257877349853516,
+        "bank_station_m": 53.2,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kiri dan kanan: muka air maksimum 24.626 m; tebing kiri 24.180 m, kanan 24.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38334395110925,
+          -7.932229743631624
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 3200,
+        "sisi": "Kiri",
+        "status": "indikasi_model",
+        "latitude": -7.932229743631624,
+        "longitude": 110.38334395110925,
+        "easting": 432032.558799511,
+        "northing": 9123143.76688088,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.932230%2C110.383344",
+        "WSE_m": 25.292621612548828,
+        "elevasi_tebing_m": 24.53,
+        "kelebihan_m": 0.762621612548827,
+        "bank_station_m": 0.0,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kiri dan kanan: muka air maksimum 25.293 m; tebing kiri 24.530 m, kanan 24.200 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38327378944241,
+          -7.933131541409216
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 3200,
+        "sisi": "Kanan",
+        "status": "indikasi_model",
+        "latitude": -7.933131541409216,
+        "longitude": 110.38327378944241,
+        "easting": 432024.973448447,
+        "northing": 9123044.05498364,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.933132%2C110.383274",
+        "WSE_m": 25.292621612548828,
+        "elevasi_tebing_m": 24.2,
+        "kelebihan_m": 1.0926216125488288,
+        "bank_station_m": 100.0,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kiri dan kanan: muka air maksimum 25.293 m; tebing kiri 24.530 m, kanan 24.200 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38308392423347,
+          -7.932200541736931
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 3300,
+        "sisi": "Kiri",
+        "status": "indikasi_model",
+        "latitude": -7.932200541736931,
+        "longitude": 110.38308392423347,
+        "easting": 432003.8929313628,
+        "northing": 9123146.9527862,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.932201%2C110.383084",
+        "WSE_m": 25.315814971923828,
+        "elevasi_tebing_m": 25.0,
+        "kelebihan_m": 0.3158149719238281,
+        "bank_station_m": 14.8,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 25.316 m; tebing kiri 25.000 m, kanan 25.950 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38355266067838,
+          -7.931483573363001
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 3400,
+        "sisi": "Kiri",
+        "status": "indikasi_model",
+        "latitude": -7.931483573363001,
+        "longitude": 110.38355266067838,
+        "easting": 432055.441012215,
+        "northing": 9123226.29567562,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.931484%2C110.383553",
+        "WSE_m": 25.384706497192383,
+        "elevasi_tebing_m": 25.26,
+        "kelebihan_m": 0.12470649719238125,
+        "bank_station_m": 0.0,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 25.385 m; tebing kiri 25.260 m, kanan 26.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38303041051763,
+          -7.930603161119601
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 3500,
+        "sisi": "Kiri",
+        "status": "indikasi_model",
+        "latitude": -7.930603161119601,
+        "longitude": 110.38303041051763,
+        "easting": 431997.7320439198,
+        "northing": 9123323.546252267,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.930603%2C110.383030",
+        "WSE_m": 25.568174362182617,
+        "elevasi_tebing_m": 25.0,
+        "kelebihan_m": 0.5681743621826172,
+        "bank_station_m": 39.4,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 25.568 m; tebing kiri 25.000 m, kanan 26.870 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38381265510704,
+          -7.9306740905324
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 3600,
+        "sisi": "Kiri",
+        "status": "indikasi_model",
+        "latitude": -7.9306740905324,
+        "longitude": 110.38381265510704,
+        "easting": 432083.965747743,
+        "northing": 9123315.83250865,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.930674%2C110.383813",
+        "WSE_m": 25.784847259521484,
+        "elevasi_tebing_m": 25.35,
+        "kelebihan_m": 0.43484725952148295,
+        "bank_station_m": 0.0,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 25.785 m; tebing kiri 25.350 m, kanan 26.790 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38455643219446,
+          -7.9307597609309335
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 3700,
+        "sisi": "Kiri",
+        "status": "indikasi_model",
+        "latitude": -7.9307597609309335,
+        "longitude": 110.38455643219446,
+        "easting": 432165.96178869,
+        "northing": 9123306.48259629,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.930760%2C110.384556",
+        "WSE_m": 26.140888214111328,
+        "elevasi_tebing_m": 26.0,
+        "kelebihan_m": 0.14088821411132812,
+        "bank_station_m": 0.0,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 26.141 m; tebing kiri 26.000 m, kanan 27.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38546232547371,
+          -7.930431487382402
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 3800,
+        "sisi": "Kanan",
+        "status": "indikasi_model",
+        "latitude": -7.930431487382402,
+        "longitude": 110.38546232547371,
+        "easting": 432265.75912236504,
+        "northing": 9123342.92352905,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.930431%2C110.385462",
+        "WSE_m": 26.33546257019043,
+        "elevasi_tebing_m": 26.0,
+        "kelebihan_m": 0.3354625701904297,
+        "bank_station_m": 68.5,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kanan: muka air maksimum 26.335 m; tebing kiri 27.000 m, kanan 26.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3855493979147,
+          -7.9299786970440955
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 3900,
+        "sisi": "Kanan",
+        "status": "indikasi_model",
+        "latitude": -7.9299786970440955,
+        "longitude": 110.3855493979147,
+        "easting": 432275.282519095,
+        "northing": 9123392.99702334,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.929979%2C110.385549",
+        "WSE_m": 26.4219970703125,
+        "elevasi_tebing_m": 26.0,
+        "kelebihan_m": 0.4219970703125,
+        "bank_station_m": 100.0,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kanan: muka air maksimum 26.422 m; tebing kiri 27.350 m, kanan 26.000 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38530651228533,
+          -7.928207364932722
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 4100,
+        "sisi": "Kanan",
+        "status": "indikasi_model",
+        "latitude": -7.928207364932722,
+        "longitude": 110.38530651228533,
+        "easting": 432248.220844241,
+        "northing": 9123588.79115597,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.928207%2C110.385307",
+        "WSE_m": 27.14716148376465,
+        "elevasi_tebing_m": 27.06,
+        "kelebihan_m": 0.08716148376464972,
+        "bank_station_m": 100.0,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kanan: muka air maksimum 27.147 m; tebing kiri 27.160 m, kanan 27.060 m.",
+        "geometry_edited_after_run": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38743692827205,
+          -7.927948757324702
+        ]
+      },
+      "properties": {
+        "kind": "bank",
+        "RS": 4300,
+        "sisi": "Kiri",
+        "status": "indikasi_model",
+        "latitude": -7.927948757324702,
+        "longitude": 110.38743692827205,
+        "easting": 432483.002722175,
+        "northing": 9123617.72901348,
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=-7.927949%2C110.387437",
+        "WSE_m": 27.881553649902344,
+        "elevasi_tebing_m": 26.16,
+        "kelebihan_m": 1.7215536499023436,
+        "bank_station_m": 0.0,
+        "location_method": "Bank Sta projected along XS cutline by relative station",
+        "catatan": "Terindikasi luapan kiri: muka air maksimum 27.882 m; tebing kiri 26.160 m, kanan 27.980 m.",
+        "geometry_edited_after_run": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.38672290561435,
+            -7.926330346414968
+          ],
+          [
+            110.3870399213862,
+            -7.926644173528295
+          ],
+          [
+            110.38729335735832,
+            -7.92701488162162
+          ],
+          [
+            110.38735955060804,
+            -7.927337835429437
+          ],
+          [
+            110.38719407682524,
+            -7.927597143376188
+          ],
+          [
+            110.38694314075077,
+            -7.927682236236093
+          ],
+          [
+            110.38664463875041,
+            -7.9277292758079305
+          ],
+          [
+            110.38623187653393,
+            -7.927753990047601
+          ],
+          [
+            110.38590149496663,
+            -7.927889609356932
+          ],
+          [
+            110.38555720698044,
+            -7.928838679288359
+          ],
+          [
+            110.38548026456799,
+            -7.929341841861371
+          ],
+          [
+            110.38557197729469,
+            -7.929582536772242
+          ],
+          [
+            110.38602219612106,
+            -7.929991518948361
+          ],
+          [
+            110.38595509296195,
+            -7.93028262380333
+          ],
+          [
+            110.38571974735923,
+            -7.930557654249608
+          ],
+          [
+            110.385456170982,
+            -7.9306015790476305
+          ],
+          [
+            110.38518330511093,
+            -7.93048722706871
+          ],
+          [
+            110.38478350285959,
+            -7.930334704358039
+          ],
+          [
+            110.3839042461731,
+            -7.930219455474784
+          ],
+          [
+            110.38348831611235,
+            -7.930237831594287
+          ],
+          [
+            110.38310394090281,
+            -7.9303860295563835
+          ],
+          [
+            110.38293222207906,
+            -7.930572525330013
+          ],
+          [
+            110.38296053603312,
+            -7.930746656388687
+          ],
+          [
+            110.38302373065432,
+            -7.930949326427533
+          ],
+          [
+            110.38310880480452,
+            -7.931383092598011
+          ],
+          [
+            110.38306386655658,
+            -7.931712212707008
+          ],
+          [
+            110.382780673902,
+            -7.932135937425651
+          ],
+          [
+            110.38274844878657,
+            -7.932455580538166
+          ],
+          [
+            110.38278948569342,
+            -7.932613904175444
+          ],
+          [
+            110.38294494906647,
+            -7.93268377021862
+          ],
+          [
+            110.38316080053397,
+            -7.932709412080118
+          ],
+          [
+            110.38351648651913,
+            -7.932640303184813
+          ],
+          [
+            110.38431071951788,
+            -7.932290134753818
+          ],
+          [
+            110.38453610485246,
+            -7.932309459475161
+          ],
+          [
+            110.38489116001765,
+            -7.932664492922753
+          ],
+          [
+            110.38548767791907,
+            -7.932902768002224
+          ],
+          [
+            110.38583342596243,
+            -7.933112185138328
+          ],
+          [
+            110.38589465966993,
+            -7.933224737669194
+          ],
+          [
+            110.38561871264615,
+            -7.933758907437446
+          ],
+          [
+            110.38530769767573,
+            -7.934152347073247
+          ],
+          [
+            110.38501399611808,
+            -7.934763863050221
+          ],
+          [
+            110.38494263861011,
+            -7.935305368281008
+          ],
+          [
+            110.38472698278508,
+            -7.935621575268135
+          ],
+          [
+            110.38449400240596,
+            -7.935726739383528
+          ],
+          [
+            110.38423997653334,
+            -7.935750982336602
+          ],
+          [
+            110.38376679765285,
+            -7.936070324657578
+          ],
+          [
+            110.38276012686487,
+            -7.936937519851521
+          ],
+          [
+            110.38230101408841,
+            -7.9372850167635045
+          ],
+          [
+            110.3821840714129,
+            -7.937640055135256
+          ],
+          [
+            110.38218363539606,
+            -7.937931961343436
+          ],
+          [
+            110.38232076188189,
+            -7.9382346226168785
+          ],
+          [
+            110.3825462530983,
+            -7.938421355634066
+          ],
+          [
+            110.38289864552644,
+            -7.938671581872392
+          ],
+          [
+            110.38296523539911,
+            -7.938963587508095
+          ],
+          [
+            110.38287659792957,
+            -7.939262396826112
+          ],
+          [
+            110.38212859851484,
+            -7.940139351800444
+          ],
+          [
+            110.38209277878371,
+            -7.940502716723294
+          ],
+          [
+            110.38235077389979,
+            -7.940972026481272
+          ],
+          [
+            110.38240515262072,
+            -7.941304263576015
+          ],
+          [
+            110.38231056167939,
+            -7.941651910353059
+          ],
+          [
+            110.38193411836568,
+            -7.9417568596275165
+          ],
+          [
+            110.38153072260198,
+            -7.941537427618405
+          ],
+          [
+            110.38097027849196,
+            -7.941493608992399
+          ],
+          [
+            110.37974905459417,
+            -7.942968907795176
+          ],
+          [
+            110.37917978944246,
+            -7.943577662566909
+          ],
+          [
+            110.37893997982263,
+            -7.944050138464006
+          ],
+          [
+            110.37861444226743,
+            -7.944186422269644
+          ],
+          [
+            110.37775980875354,
+            -7.944282837184457
+          ],
+          [
+            110.37752831908875,
+            -7.94443489169657
+          ],
+          [
+            110.37754362693943,
+            -7.944681100829546
+          ],
+          [
+            110.37772702746476,
+            -7.945228455839441
+          ],
+          [
+            110.37734218712134,
+            -7.945700713471815
+          ],
+          [
+            110.377039800576,
+            -7.946079309029499
+          ],
+          [
+            110.37715307071429,
+            -7.946345203517456
+          ],
+          [
+            110.37753652253453,
+            -7.946795165361715
+          ],
+          [
+            110.3779707664194,
+            -7.947354619009934
+          ],
+          [
+            110.37811578915772,
+            -7.947358743731569
+          ],
+          [
+            110.3783512706068,
+            -7.947159802377302
+          ],
+          [
+            110.37879818001629,
+            -7.947117485620717
+          ],
+          [
+            110.3799965557313,
+            -7.947818756537921
+          ],
+          [
+            110.38119869733185,
+            -7.9486255383196
+          ],
+          [
+            110.38160880972622,
+            -7.949599170995232
+          ],
+          [
+            110.38173737645339,
+            -7.950122996750239
+          ],
+          [
+            110.3815686587259,
+            -7.950236069537929
+          ]
+        ]
+      },
+      "properties": {
+        "kind": "river"
+      }
+    }
+  ]
+}
