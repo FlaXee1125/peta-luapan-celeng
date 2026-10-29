@@ -17,7 +17,7 @@
     const basemap = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map);
     const river = L.polyline(data.river_lonlat.map(asLatLng), {color: '#1977b6', weight: 3, opacity: .8}).addTo(map);
     const cuts = L.layerGroup().addTo(map);
-    const bankOver = L.layerGroup();
+    const bankOver = L.layerGroup().addTo(map);
     const bankAll = L.layerGroup();
     const points = L.layerGroup().addTo(map);
     const markers = new Map();
@@ -26,7 +26,7 @@
     const bounds = L.latLngBounds(sections.map(r => [r.latitude, r.longitude]));
     map.fitBounds(bounds.pad(.08));
     L.control.scale({imperial: false}).addTo(map);
-    L.control.layers({'OpenStreetMap': basemap}, {'Alur Kali Celeng': river, 'Garis penampang': cuts, '24 titik tebing melimpas': bankOver, 'Seluruh titik tebing (194)': bankAll}, {collapsed: true}).addTo(map);
+    L.control.layers({'OpenStreetMap': basemap}, {'Alur Kali Celeng': river, 'Garis penampang': cuts, '19 titik tebing melimpas': bankOver, 'Seluruh titik tebing (194)': bankAll}, {collapsed: true}).addTo(map);
     function popup(r) {
       const overflow = r.status === 'melimpas';
       return `<h3>RS ${r.RS}</h3><div class="popup-status ${overflow ? 'red' : 'green'}">${statusText(r)}</div>` +
@@ -69,7 +69,7 @@
       }
       const tbody = document.getElementById('station-table');
       tbody.innerHTML = visible.map(r => `<tr data-rs="${r.RS}"><td><button type="button" data-rs="${r.RS}">RS ${r.RS}</button></td><td class="${r.status === 'melimpas' ? 'red' : 'green'}">${statusText(r)}</td><td>${r.sisi}</td><td>${n(r.MAB_m)}</td><td>${n(r.tebing_kiri_m)}</td><td>${n(r.tebing_kanan_m)}</td><td>${n(r.kelebihan_m)}</td><td><a href="${r.google_maps}" target="_blank" rel="noopener">Google Maps ↗</a></td></tr>`).join('');
-      message.textContent = `Menampilkan ${visible.length} dari 97 penampang. ${filter === 'all' ? '21 terindikasi luapan · 76 tidak terindikasi luapan.' : ''}`;
+      message.textContent = `Menampilkan ${visible.length} dari 97 penampang. ${filter === 'all' ? '17 terindikasi luapan · 80 tidak terindikasi luapan.' : ''}`;
       document.getElementById('list-title').textContent = filter === 'all' ? 'Daftar seluruh penampang' : filter === 'melimpas' ? 'Penampang terindikasi luapan' : 'Penampang tidak terindikasi luapan';
     }
     function setFilter(next) {
@@ -83,6 +83,7 @@
     document.getElementById('focus-4900').addEventListener('click', () => showRS(4900));
     document.getElementById('labels').addEventListener('change', e => document.getElementById('map').classList.toggle('labels-on', e.target.checked));
     document.getElementById('show-all').addEventListener('click', () => {setFilter('all');map.fitBounds(bounds.pad(.08));map.closePopup();});
+    document.getElementById('bank-table').innerHTML = data.banks.filter(b => b.melimpas).sort((a,b) => b.RS-a.RS || (a.sisi === 'Kiri' ? -1 : 1)).map(b => `<tr><td>RS ${b.RS}</td><td>${b.sisi === 'Kiri' ? 'Ki' : 'Ka'}</td><td>${n(b.kelebihan_m)}</td><td>${b.longitude.toFixed(7)}</td><td>${b.latitude.toFixed(7)}</td><td><a href="${b.google_maps}" target="_blank" rel="noopener">Google Maps ↗</a></td></tr>`).join('');
     render();
     // Small read-only diagnostic surface for verifying deployed data and map layer counts.
     window.celengMap = {map, data, points, cuts, bankOver, bankAll, getFilter: () => filter};
